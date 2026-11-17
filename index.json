@@ -1,0 +1,17 @@
+{
+  "name": "Rudi Zangetsu Custom Repo",
+  "author": "Rudi",
+  "description": "Sumber kustom Zangetsu siap pakai",
+  "version": "1.0.0",
+  "sources": [
+    {
+      "id": "rudi-anime-custom",
+      "name": "Rudi Custom Anime",
+      "version": "1.0.0",
+      "type": "anime",
+      "lang": "id",
+      "file": "providers/rudi-anime.js",
+      "nsfw": false
+    }
+  ]
+}
